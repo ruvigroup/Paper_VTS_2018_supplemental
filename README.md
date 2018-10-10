@@ -3,7 +3,7 @@
 Authors: Alberto Morando, Trent Victor, and Marco Dozza
 
 This repository includes additional information for the Bayesian generalized linear mixed effects models defined in the paper:
-- The Markov Chain Monte Carlo (MCMC) traces of the posterior distribution of the parameters as comma separated value (CSV) files;
-- Plots of the predictive posterior distributions.
+- in `\data` we stored the Markov Chain Monte Carlo (MCMC) traces of the posterior distribution of the models' parameters as comma separated value (CSV) files; The 
+- in `\figures` we stored the plots of the predictive posterior distributions from the models. The figures are described in more details in the document [posterior_predictive_distributions.pdf](https://github.com/ruvigroup/Paper_VTS_2018_supplemental/blob/master/posterior_predictive_distributions.pdf)
 
 The paper has been submitted for publication in a journal. Changes will be made following the review process.
